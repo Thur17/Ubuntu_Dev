@@ -88,8 +88,8 @@ bash <(curl -s https://raw.githubusercontent.com/Thur17/ubuntu-dev-setup/main/se
 ### Opção 2 – clonando o repositório
 
 ```bash
-git clone https://github.com/Thur17/ubuntu-dev-setup.git
-cd ubuntu-dev-setup
+git clone https://github.com/Thur17/Ubuntu-dev-setup.git
+cd Ubuntu-dev-setup
 chmod +x setup.sh
 ./setup.sh
 ```
