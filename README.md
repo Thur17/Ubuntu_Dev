@@ -39,33 +39,30 @@
 ### 6. 📮 Postman
 - Instalação via Snap
 
-### 7. 🗃️ MySQL Server + Workbench
-- Instalação via APT
-
-### 8. 🐳 Docker
+### 7. 🐳 Docker
 - Repositório oficial da Docker
 - Instalação: `docker-ce`, `docker-ce-cli`, `containerd.io`
 - Adiciona o usuário atual ao grupo `docker`
 
-### 9. 📄 ONLYOFFICE
+### 8. 📄 ONLYOFFICE
 - Repositório oficial + instalação do editor de documentos
 
-### 10. 💻 Remmina
+### 9. 💻 Remmina
 - Acesso remoto com suporte a RDP, VNC, Secrets
 
-### 11. 🧑‍💻 AnyDesk
+### 10. 🧑‍💻 AnyDesk
 - Repositório oficial + instalação
 
-### 12. 🎵 Spotify
+### 11. 🎵 Spotify
 - Repositório oficial + instalação via APT
 
-### 13. 🔐 Bitwarden
+### 12. 🔐 Bitwarden
 - Instalação via Snap
 
-### 14. 🎥 OBS Studio
+### 13. 🎥 OBS Studio
 - Instalação via APT
 
-### 15. 🧩 Extensões GNOME
+### 14. 🧩 Extensões GNOME
 - Instala automaticamente as seguintes extensões GNOME:
 
   IDs: `615`, `6`, `517`, `2087`, `516`, `435`, `5721`, `307`, `19`
