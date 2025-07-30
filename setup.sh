@@ -61,10 +61,6 @@ fi
 echo "\n📮 Instalando Postman..."
 sudo snap install postman
 
-# --------- MySQL Workbench e Server ---------
-echo "\n🗃️ Instalando MySQL Workbench e servidor..."
-sudo apt install -y mysql-workbench mysql-server
-
 # --------- Docker ---------
 echo "\n🐳 Instalando Docker..."
 sudo install -m 0755 -d /etc/apt/keyrings
